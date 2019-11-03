@@ -6,3 +6,7 @@ edition = "2018"
 
 [dependencies]
 dotenv = "0.15.0"
+paho-mqtt = "0.6.0"
+env_logger = "0.7.1"
+futures = "0.1.29"
+tokio = "0.1.22"
