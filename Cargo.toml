@@ -5,3 +5,4 @@ authors = ["Wojciech Wilk <galhadpl@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+dotenv = "0.15.0"
